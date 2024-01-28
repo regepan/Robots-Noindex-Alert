@@ -4,7 +4,7 @@ Plugin Name: Robots Noindex Alert
 Description: 「表示設定」の「検索エンジンでの表示」が「インデックスしない」になっている場合に管理画面全ページに警告メッセージを表示します。
 Version: 1.0.0
 Author: Sasaki Yuto
-Plugin URI: http://your-plugin-url.com
+Plugin URI: https://github.com/regepan/Robots-Noindex-Alert
 */
 
 class Robots_Noindex_Alart {
